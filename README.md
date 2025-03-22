@@ -5,6 +5,9 @@
 **🎓 Education:**
 - 📖 Electrical Engineering Major
 
+**🖥️ Programming Languages:**
+- C | Python | C++ | VHDL
+
 **⚡ Skillsets:**
 - Circuit Design & Microelectronic Circuits 
 - Digital Signal Processing (DSP)
