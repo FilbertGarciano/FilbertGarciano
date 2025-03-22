@@ -20,4 +20,4 @@
 **📫 Connect with me:**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/filbertgarciano/)
-[![Portfolio](https://img.shields.io/badge/CV-000000?style=for-the-badge&logo=portfolio&logoColor=white)](https://drive.google.com/drive/folders/1WwHPSlkWvRRn6unJfEsWQU0OjrVFvmPt)  
+[![Portfolio](https://img.shields.io/badge/CV-000000?style=for-the-badge&logo=portfolio&logoColor=white)](https://drive.google.com/file/d/1S-9BQsbDHaNBBCwhNeX8N_BXiBqdQoeE/view)  
