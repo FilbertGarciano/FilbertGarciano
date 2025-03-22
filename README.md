@@ -1,16 +1,23 @@
-## Hi there 👋
+### Hi there, I'm Filbert Garciano 👋
 
-<!--
-**FilbertGarciano/FilbertGarciano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 **About Me:**
+---
+**🎓 Education:**
+- 📖 Electrical Engineering Major
 
-Here are some ideas to get you started:
+**⚡ Skillsets:**
+- Circuit Design & Microelectronic Circuits 
+- Digital Signal Processing (DSP)
+- Digital Systems
+- Control Systems
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**🔍 Interests:**
+- Circuit Design & Microelectronic Circuits 
+- Digital Signal Processing (DSP)
+- Embedded Systems & IoT
+- Robotics & Automation
+
+**📫 Connect with me:**
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/filbertgarciano/)
+[![Portfolio](https://img.shields.io/badge/CV-000000?style=for-the-badge&logo=portfolio&logoColor=white)](https://drive.google.com/drive/folders/1WwHPSlkWvRRn6unJfEsWQU0OjrVFvmPt)  
